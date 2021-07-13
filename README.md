@@ -1,4 +1,4 @@
-# Criação da tela de login instagram! :camera:
+# Criação da tela de login do instagram! :camera:
 
 - É meu primeiro projeto! :rocket:
 
